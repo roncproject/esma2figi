@@ -26,3 +26,4 @@ This is a Python script which takes a CSV with ISIN codes as input, and enriches
 
 # Remarks
 * This is a work in progress
+* Questions, remarks, etc , to ron.c.project@gmail.com
