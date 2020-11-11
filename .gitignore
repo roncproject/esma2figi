@@ -1,5 +1,4 @@
 .idea
 *.xlsx*
-key.py
 __pycache__
 *.log

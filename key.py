@@ -1,0 +1,1 @@
+OPENFIGI_KEY = "Put your own API Key here"    # Get a key from: https://www.openfigi.com/api#api-key  
