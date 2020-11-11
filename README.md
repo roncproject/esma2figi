@@ -12,6 +12,7 @@ This is a Python script which takes a CSV with ISIN codes as input, and enriches
 
 # Installation
 * Clone with GIT, from repo at: https://github.com/roncproject/esmasidata2csv.git
+* Get an API key from https://www.openfigi.com/api#api-key . Place it in key.py
 
 # Usage
 * Get an ESMA file, for testing I used: https://www.esma.europa.eu/sites/default/files/equity_si_calculations_-_publication_file_august_2020.xlsx
